@@ -1,4 +1,4 @@
-from pipeline.video_pipeline import VoicePipeline
+from pipeline.voice_pipeline import VoicePipeline
 
 if __name__ == "__main__":
     pipeline = VoicePipeline(
